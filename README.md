@@ -7,7 +7,7 @@ Used to simulate a REST / GraphQL backend in [order-service](https://github.com/
 ## Usage
 
 ```js
-import generateData from 'data-generator-order-service';
+import generateData from 'data-generator-order-app';
 
 const data = generateData();
 // now do whatever you want with the data...
